@@ -11,7 +11,12 @@ The output errors from PyCharm are then fed back into the LLM for code update, t
 Have fun.  Good luck.
 
 Project ideas:
-AI Agent with RAG ability (user adds files and the LLM can incorporate the file data into your projec.  CrewAI agent tools)
-AI Agent conversation bot (podcast style iwth user given topic, user selected time length)
-Voice interaction with computer and AI agent
-Personal AI agent:  Canledar, voice, scheduler, reminder (voice message at alert time), set a timeer, send a text
+AI Agent with RAG ability (user adds files and the LLM can incorporate the file data into your projec. CrewAI agent tools).
+
+AI Agent conversation bot (podcast style iwth user given topic, user selected time length).
+
+Voice interaction with computer and AI agent.
+
+Personal AI agent:  Canledar, voice, scheduler, reminder (voice message at alert time), set a timeer, send a text.
+
+Self improving AI agent.
