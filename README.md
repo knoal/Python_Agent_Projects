@@ -1,4 +1,4 @@
-# Pyython_Agent_Projects
+# Python_Agent_Projects
 Agentic ideas for LLMs.
 Fun ideas to lean about agentic programming in Python.
 The programs you will need:
